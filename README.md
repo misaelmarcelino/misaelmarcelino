@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Misael Souza Marcelino</h1>
-<h3 align="center">💻 Full Stack Developer | PHP • Java • Python • React • Tailwind • Bootstrap</h3>
+<h3 align="center">💻 Full Stack Developer | Java • PHP • Python • React & Angular • Tailwind • Bootstrap</h3>
 
 ---
 
 ### 👨‍💼 About Me
 - 🔭 Currently working at **[Sem Parar](https://www.linkedin.com/company/semparar/mycompany/verification/)**  
-- 🌱 Learning and improving skills in **Python, PHP (Laravel), JavaScript, TypeScript, React**  
+- 🌱 Learning and improving skills in **Python, PHP (Laravel), Java(Spring), JavaScript, TypeScript, React**  
 - 💡 Passionate about solving problems with scalable and efficient solutions  
 - 🤝 Open to collaborations on **open-source projects** and **system integrations**  
 - 📚 Ongoing student of **Technology in Information Systems - FIAP (2024–2026)**  
@@ -27,7 +27,7 @@
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://cdn.jsdelivr.net/npm/simple-icons@vlatest/icons/laravel.svg)" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
